@@ -1,0 +1,11 @@
+*~
+*.swp
+*.log
+/node_modules
+bower_components/
+.idea/
+.vscode/
+/backend
+.env
+package-lock.json
+uploads/
